@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-## Linguagens e ferramentas:
+Linguagens e ferramentas:
 <br>
 <br>
 <img width=40px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
